@@ -222,6 +222,11 @@ li a:hover {
   background-position: center;
   background-size: cover;
 }
+.img-four {
+  background: url("images/2.png");
+  background-position: center;
+  background-size: cover;
+}
 
 .card-title {
   color: #fff;
